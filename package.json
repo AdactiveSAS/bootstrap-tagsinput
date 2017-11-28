@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap-tagsinput",
+  "name": "@adactive/bootstrap-tagsinput",
   "title": "Bootstrap Tags Input",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "jQuery plugin providing a Twitter Bootstrap user interface for managing tags.",
   "scripts": {
     "test": "karma start --single-run --no-auto-watch"
@@ -15,6 +15,9 @@
   "contributors": [
     {
       "name": "Luckner Jr Jean-Baptiste"
+    },
+    {
+      "name": "Bentefrit Moroine"
     }
   ],
   "license": "MIT",
